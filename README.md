@@ -1,0 +1,2 @@
+# alphamedbusinesssolution
+technology
